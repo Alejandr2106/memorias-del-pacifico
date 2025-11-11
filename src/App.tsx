@@ -24,7 +24,7 @@ const App: React.FC = () => {
           className="max-w-3xl text-choco-900 drop-shadow-[0_2px_6px_rgba(255,255,255,0.5)]"
         >
           <h1 className="text-3xl md:text-5xl font-serif font-extrabold leading-snug">
-            Los Abouchaar y el sueño azucarero de Sautatá:
+            Los Abuchar y el sueño azucarero de Sautatá:
             <br />
             <span className="text-amber-700 italic">
               historia familiar y desigualdad en el Pacífico colombiano
@@ -52,11 +52,11 @@ const App: React.FC = () => {
           className="max-w-4xl mx-auto space-y-5 text-lg leading-relaxed"
         >
           <h2 className="text-2xl md:text-3xl font-serif font-semibold text-choco-800 mb-6">
-            La apuesta industrial de los Abouchaar en el Chocó
+            La apuesta industrial de los Abuchar en el Chocó
           </h2>
 
           <p>
-            La familia Abouchaar, de origen sirio, llegó a Colombia a inicios
+            La familia Abuchar, de origen sirio, llegó a Colombia a inicios
             del siglo XX y se estableció en el Caribe, donde participó en el
             comercio en Cartagena y Barranquilla. Con el tiempo, esa experiencia
             los llevó a invertir en proyectos que unieran el comercio con la
@@ -71,7 +71,7 @@ const App: React.FC = () => {
           </p>
 
           <p>
-            En 1924, los Abouchaar (Miguel y Abdo) fundaron la{" "}
+            En 1924, los Abuchar (Miguel y Abdo) fundaron la{" "}
             <span className="font-semibold text-choco-700">
               Empresa Agrícola de Sautatá
             </span>
@@ -759,7 +759,7 @@ const App: React.FC = () => {
 
       {/* ======= FOOTER ======= */}
       <footer className="text-center py-8 text-choco-700 text-sm">
-        © 2025 — Historia familiar de los Abouchaar y Sautatá
+        © 2025 — Historia familiar de los Abuchar y Sautatá
       </footer>
     </main>
   );
